@@ -1,0 +1,126 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": true,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+        "name": "SCP Dystopia Waves (Update 1)",
+        "role": "Welcome to SCP Dystopia Waves! This game contains 4 waves. You have to defeat all SCPs. There are 3 difficulties on this game. Casual, Normal, Hard I recommend casual or normal. Because hard is literally hard.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Dystopia/1/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Dystopia/1/scpdtwaves.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Dystopia/1/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Dystopia/1/1.png"
+    }
+  ],
+  "Texture": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/oI_q4-wWqrl3UgwSj5QN7rnEhqN8fi7zYOlTpXvi9C5L7ps2ImUhJ6IxoM9J0Y5t4Dng7NL0b6kf4U6pXHnEbg",
+    "view_skin": "https://lh3.googleusercontent.com/muE8cZPUkECyAAODcCgu6WaRaRQV7fxiXC4-3bbZeOxfhwN9-RJyygi6s2tU3cmMgHz7jag_ySh80xLQh0nrcgg"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/pr1YQeL9xl5W6Vp0ligyu9xzD5qwjCKhnAbnqQW-Lh_pFoq-ZuAi6WRYYzqzGy-G2TqrwtvTT4TR2UtbTh3ryA",
+    "view_skin": "https://lh3.googleusercontent.com/QlaOx0fH2JPWpWLxevBfcwyzXlBNk_ME5SS6VS8HSH6145s4XJiemv089JAomjCcttUAnIRUEyL1jC0-ejEQBMI"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/-vZsM99zhW4rU2EDvAdgqKRsNsR4LU1o4edup4aBVqUVRWfOedgBrFX5AiWPSVrA-1DuR5i_dyrnLyvhk4X21Q",
+    "view_skin": "https://lh3.googleusercontent.com/KsJLcCnbzx3x2zf3-bS8_rtWjkNnOXapzRO0XRZPB7oiU4Drq2kvk3aTKKvCD8iTY0jmS4QVeOnD1XhFFvGppg"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/IP1Xh0mt0bL2lAwortQs-GWlX6wQ2iLOfMe4GwiRL_7Q7RJI1ZXA7NCRtFRdkzq7PwoJYGYjoIRxwtLnpBrP6Rw",
+    "view_skin": "https://lh3.googleusercontent.com/n41pPNi9idUDtlThfSJg505L1ZCc2FhWak0ruVK72kI-Tj_o1mKi3rFurh9SfyJFYmjYgAJmaFEuz-c8xzGtcA"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/EJ1rAqZUyyP40_wjvvXPtPLUosTXo7Ev73T_JND9SsmYZDMZ2ouyuPwcggPht5BsKh7ZlhndaLZlqFv_gMLBDQ",
+    "view_skin": "https://lh3.googleusercontent.com/5Xj9TtBnJ-ZxkZxmn2rdrw3ScdxEx0SBVmXAn0bhZeRicbr4ULw3zUGaky4aM6bgWU3KlPuI9IJAqR4LSHGh5A"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/u1FfRRvtLATt6aCS4nfU5YweLcnH61G21bpdJRBPjzeLUH-fgCFAWNRG9f-f_m5zuMbDoph9FzipYtnNm6cLew",
+    "view_skin": "https://lh3.googleusercontent.com/TerCcDzuNx5pQIa8d_wwLRPDmI7TgIA_3TwFHC35SOCf95KpMi2PPgu9Egjj0Ki8g7HEDs-N34M_qnY5AB2gYQ"
+  },
+  {
+    "id": 7,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/0TEgpCopocb8efqPoccETsH1rRgqFruy3B0l-KIiG_10MciWDJ9gO1gmRBv5j6w4pc7pmYZQTQgTyGUYtMbd",
+    "view_skin": "https://lh3.googleusercontent.com/0QGE49gGj_CmlCNhTAFJ3h5u-c-OITZPZ85eIb1oUZ710pJPnEUVMP8UgmZzGnwaCwqJygNrwkmFK0LlBMBt"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
